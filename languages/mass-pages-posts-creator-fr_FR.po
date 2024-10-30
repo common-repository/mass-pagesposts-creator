@@ -1,0 +1,795 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mass Pages/Posts Creator Premium\n"
+"Report-Msgid-Bugs-To: https://www.multidots.com/contact/\n"
+"POT-Creation-Date: 2022-10-11 13:54:14+00:00\n"
+"PO-Revision-Date: 2024-08-20 12:11+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html;esc_html__;esc_attr_e;"
+"esc_attr;esc_attr__\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/partials/mppc-information-page.php:32
+msgid " to view license and terms of use."
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:31
+msgid "(Comma Separated)"
+msgstr ""
+
+#: mass-pages-posts-creator.php:457
+msgid "-"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:135
+msgid "-- Select Template --"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:195
+msgid "1 site"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:205
+msgid "14-Day money-back guarantee"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:208
+msgid "14-Day Satisfaction Guarantee"
+msgstr ""
+
+#: mass-pages-posts-creator.php:502
+msgid ""
+"<strong>We need your support</strong> to keep updating and improving the "
+"plugin. Please <a href=\"%1$s\" target=\"_blank\">help us by leaving a good "
+"review</a> :) Thanks!"
+msgstr ""
+
+#: includes/mass-pages-posts-creator-functions.php:315
+msgid "Activate Plugin"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:47
+msgid ""
+"Add titles, count to generate, select the type, add content, and with one "
+"click, you are ready to create mass pages or posts."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:213
+msgid "Amazing plugin and Excellent support!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:81
+msgid "Any Post Type Selection"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:91
+msgid "Astra"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:257
+#: admin/partials/mppc-admin-settings-page.php:278
+#: admin/partials/mppc-admin-settings-page.php:290
+msgid "Author"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:60
+msgid "Author-Based Pages and Posts Creation."
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:202
+msgid "Auto Draft"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:101
+msgid "Be our friend on"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:83
+#: admin/partials/mppc-admin-settings-page.php:17
+msgid "Bulk Add Pages/Posts"
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:32
+msgid "Click here"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:138
+msgid "Close"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:220
+msgid "Closed"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:58
+msgid "Complete Content Control with Mass Creator."
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:40
+msgid "Content of Pages/Posts"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:28
+#: admin/partials/dots-plugin-setup-wizard.php:56
+#: admin/partials/dots-plugin-setup-wizard.php:69
+#: admin/partials/dots-plugin-setup-wizard.php:114
+msgid "Continue"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:355
+msgid "Create"
+msgstr ""
+
+#: admin/partials/mppc-get-started-page.php:24
+msgid "Create Mass Pages/Posts"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:59
+msgid "Custom Page and Post Template Selection Flexibility."
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:61
+msgid "Custom Parent Template Layout Selection."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:222
+msgid "Customer Profile Image"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:69
+msgid "Default Status Before Generate Posts"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:125
+msgid "Discover Our Top Key Features"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:89
+msgid "Do the Woo"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:249
+msgid "Do you offer support for the plugin? What’s it like?"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:118
+msgid "Done"
+msgstr ""
+
+#: mass-pages-posts-creator.php:294
+msgid "Dotstore Plugins"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:201
+msgid "Draft"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:106
+msgid ""
+"Easily decide and set the comment status for posts or pages while generating "
+"them in bulk."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:82
+msgid ""
+"Easily generate Pages, Posts, Products, or any custom post types used on "
+"your website to fulfill your unique needs."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:94
+msgid ""
+"Easily generate posts or pages in bulk on your website, with the flexibility "
+"to assign your desired post or page author."
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:55
+#: admin/partials/mppc-admin-settings-page.php:62
+msgid ""
+"eg. It is a long established fact that a reader will be distracted by the "
+"readable content of a page when looking at its layout."
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:36
+msgid "eg. Test1, Test2, test3, test4, test5"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:73
+msgid ""
+"Enhance your content management workflow by preemptively setting default "
+"statuses for pages and posts before generating them in bulk. "
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:215
+msgid ""
+"Excellent product, <strong>it facilitates the creation of pages in a few "
+"seconds</strong>. Finally found a plugin that meets my wishes! Thanks for "
+"this amazing plugin. <strong>100% recommendable</strong>."
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:59
+msgid "Excerpt Content"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:245
+msgid "FAQs"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:225
+msgid "Ferran Harris"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:62
+msgid "Flexibility to Set Comment Status Open or Close."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:113
+msgid ""
+"For example, if you're generating a series of informational pages where "
+"feedback is not needed, you can preemptively close comments."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:54
+msgid ""
+"For example, if you're launching a new store or news media website, you can "
+"quickly create individual pages with descriptions, title, and content."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:88
+msgid ""
+"For example, if you're setting up an online newspaper, you can efficiently "
+"create multiple posts listings, complete with titles, descriptions, and "
+"categories, saving significant time and effort."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:65
+msgid ""
+"For example, you could add titles like \"Summer Sale Products,\" \"Winter "
+"Collection,\" or \"New Arrivals.\" Next, choose the number of pages or posts "
+"you need. Next, select the custom template that was created for new seasonal "
+"products."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:77
+msgid ""
+"For instance, if you are preparing titles and some default content for your "
+"news website but need a content writer to complete the final touches, you "
+"can generate posts with the Draft status."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:101
+msgid ""
+"For instance, if you're running a blog with multiple contributors, you can "
+"efficiently assign bulk-generated posts to the relevant authors."
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:16
+#: admin/partials/header/plugin-header.php:20
+msgid "Free"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:53
+msgid ""
+"Generate all your specified pages or posts with a single click. The tool "
+"automates the process, saving you valuable time and effort."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:50
+msgid ""
+"Generating many pages or posts for your WordPress site has never been easier."
+" With just a few simple steps, you can create multiple entries in one time."
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:47
+msgid "German, French, Polish, Spanish"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:39
+msgid ""
+"Get improved features and faster fixes by sharing non-sensitive data via "
+"usage-tracking. This will help us make the plugin more compatible with your "
+"site. No personal data is tracked or stored."
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:95 mass-pages-posts-creator.php:321
+msgid "Get Premium"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:199
+#: admin/partials/dots-upgrade-dashboard.php:299
+msgid "Get The Premium Version"
+msgstr ""
+
+#: mass-pages-posts-creator.php:313
+msgid "Getting Started"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:196
+msgid "Great for website owners with a single WordPress Site"
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:39
+msgid "Guide Documentation"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:55
+msgid "Help"
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:35
+msgid "Help & Support"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:38
+msgid "Help us build a better \"Mass Pages/Posts Creator\" Plugin!"
+msgstr ""
+
+#: admin/partials/mppc-get-started-page.php:12
+msgid "How to Get Started"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:282
+msgid "I have more questions…"
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:27
+msgid "Installed Version"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:46
+msgid "Instant Page and Posts Generator"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:256
+msgid "knowledge base"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:86
+msgid "LearnWoo"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:89
+msgid "License"
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:31
+msgid "License & Terms of use"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:30
+msgid "List of Pages/Posts"
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:46
+msgid "Localization"
+msgstr ""
+
+#: mass-pages-posts-creator.php:73 mass-pages-posts-creator.php:305
+msgid "Mass Pages/Posts Creator"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:93
+msgid "Medium"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:190
+msgid "month"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:62
+msgid "My Account"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:46
+msgid "Never miss an important update"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:288
+msgid "No problem, we’re happy to help! Please reach out at %s."
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:146
+msgid "No templates available"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:66
+msgid "Number of posts"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:219
+msgid "Open"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:47
+msgid ""
+"Opt-in to get email notifications for security & feature updates and to "
+"share some important WooCommerce updates. This will help us make the plugin "
+"more compatible with your version and better at doing what you need it to. "
+"No personal data is tracked or stored."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:94
+msgid "Others"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:81
+msgid "Page"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:215
+#: admin/partials/mppc-admin-settings-page.php:228
+#: admin/partials/mppc-admin-settings-page.php:240
+msgid "Pages/Posts Comment Status"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:180
+msgid "Pages/Posts Status"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:307
+#: admin/partials/mppc-admin-settings-page.php:322
+#: admin/partials/mppc-admin-settings-page.php:338
+msgid "Parent Pages"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:191
+msgid "Pay $%s today. Renews in 12 months."
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:200
+msgid "Pending"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:184
+msgid "Personal"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:182
+msgid "Personal Plan"
+msgstr ""
+
+#: admin/partials/mppc-get-started-page.php:29
+msgid "Plugin Tour"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:82
+msgid "Post"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:25
+msgid "Postfix of Pages/Posts"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:70
+msgid ""
+"Preemptively set page and post statuses before generating them in mass, such "
+"as Publish, Draft, Pending, Future, Private, Trash, etc."
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:20
+msgid "Prefix of Pages/Posts"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:203
+msgid "Private"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:13
+msgid "Pro"
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:23
+msgid "Product Name"
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:19
+msgid "Product Type"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:187
+msgid "Publish"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:191
+#: admin/partials/mppc-admin-settings-page.php:196
+msgid "Publish 🔒"
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:15
+msgid "Quick info"
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:38
+msgid "Quick Start"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:63
+#: admin/partials/dots-plugin-setup-wizard.php:65
+msgid "Quick Tour"
+msgstr ""
+
+#: admin/partials/mppc-get-started-page.php:25
+msgid "Read the Setup Guide"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:85
+msgid "Search Engine"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:261
+#: admin/partials/mppc-admin-settings-page.php:281
+#: admin/partials/mppc-admin-settings-page.php:293
+msgid "Select Author"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:218
+#: admin/partials/mppc-admin-settings-page.php:231
+#: admin/partials/mppc-admin-settings-page.php:243
+msgid "Select Comment Status"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:83
+msgid "Select One"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:93
+msgid "Select Post/Page Author"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:105
+msgid "Select Post/Page Comment Status"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:58
+msgid "Select Pre-defined and Custom Templates"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:160
+#: admin/partials/mppc-admin-settings-page.php:172
+msgid "Select Template"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:80
+msgid "Select Type"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:89
+msgid ""
+"Similarly, for a blog, you can bulk-generate posts with placeholder content "
+"that is ready for detailed editing."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:84
+msgid "Social Media"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:25
+msgid ""
+"Streamline your content management with the Mass Pages Posts Creator for "
+"WordPress by bulk-creating pages, posts, and custom content in just a few "
+"clicks."
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:52
+msgid "Suggest"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:49
+msgid "Support"
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:41
+msgid "Support Forum"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:257
+msgid "support ticket"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:131
+#: admin/partials/mppc-admin-settings-page.php:157
+#: admin/partials/mppc-admin-settings-page.php:169
+msgid "Templates"
+msgstr ""
+
+#: admin/partials/mppc-get-started-page.php:14
+msgid ""
+"Thank you for choosing our top-rated Mass Pages/Posts Creator plugin. Our "
+"user-friendly interface makes it easy to create mass pages, posts, and other "
+"customized content."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:109
+msgid ""
+"This feature allows you to control the engagement level of your content by "
+"selecting the appropriate comment status—whether it's open, closed – during "
+"bulk creation."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:97
+msgid ""
+"This feature is especially useful for multi-author websites, allowing you to "
+"attribute content to the appropriate author seamlessly."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:85
+msgid ""
+"This feature supports a wide range of content types, providing the "
+"flexibility to quickly populate your site with the necessary content, "
+"whether you're building a blog, an e-commerce platform, or a custom content "
+"management system."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:112
+msgid ""
+"This is particularly useful for managing community interaction on a large "
+"scale, ensuring that your posts or pages have the desired commenting rules "
+"from the moment they're published."
+msgstr ""
+
+#: admin/partials/mppc-get-started-page.php:18
+msgid ""
+"To help you get started, watch the quick tour video on the right. For more "
+"help, explore our help documents or visit our %s for detailed video "
+"tutorials."
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:204
+msgid "Trash"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:200
+msgid "Trusted by 100,000+ store owners and WP experts!"
+msgstr ""
+
+#: admin/partials/mppc-admin-settings-page.php:70
+msgid "Type"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:56
+msgid ""
+"Unlock a world of possibilities for your WooCommerce store with our Premium "
+"Mass Pages/Posts Creator plugin!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:52
+msgid "Unlock Premium Features Today!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:48
+msgid "Unlock Premium Features with a %s%% Discount!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:66
+#: admin/partials/header/plugin-header.php:66
+#: admin/partials/header/plugin-header.php:71
+msgid "Upgrade Now"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:41
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:121
+msgid ""
+"Upgrade to the premium version for advanced features and streamline your "
+"content management with mass creation."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:120
+msgid "Upgrade to Unlock Premium Features"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:236
+msgid "Verified Customer"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:277
+msgid "We have a 14-day money-back guarantee."
+msgstr ""
+
+#: admin/partials/mppc-get-started-page.php:13
+msgid "Welcome to Mass Pages/Posts Creator Plugin"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:23
+msgid "Welcome! 🤗"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:266
+msgid "What payment methods do you accept?"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:274
+msgid "What’s your refund policy?"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:100
+msgid ""
+"Whether you're managing a blog, news site, or collaborative project, you can "
+"ensure that each generated post or page is correctly attributed to a "
+"specific author."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:62
+msgid ""
+"With just a few simple steps, you can create multiple entries quickly with "
+"default or predefined templates."
+msgstr ""
+
+#: admin/partials/mppc-information-page.php:20
+msgid "WordPress Plugin"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:81
+msgid "Would you mind telling how did you hear about us?"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:90
+msgid "WP Mayor"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:88
+msgid "WPBeginner"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:92
+msgid "WPExplorer"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:87
+msgid "WPLift"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:255
+msgid ""
+"Yes! You can read our %s or submit a %s. We are very responsive and strive "
+"to do our best to help you."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:41
+#: admin/partials/dots-plugin-setup-wizard.php:49
+msgid "Yes, count me in!"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:76
+msgid "You are all set, almost!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:209
+msgid ""
+"You are fully protected by our 100% Satisfaction Guarantee. If over the next "
+"14 days you are unhappy with our plugin or have an issue that we are unable "
+"to resolve, we'll happily consider offering a 100% refund of your money."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:76
+msgid ""
+"You can assign statuses such as Publish, Draft, Pending, Future, Private, "
+"Trash, and more, ensuring that your content is appropriately categorized and "
+"managed immediately."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:269
+msgid ""
+"You can pay with your credit card using Stripe checkout. Or your PayPal "
+"account."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:59
+msgid ""
+"You can select the templates before generating the pages/posts across "
+"different layouts, including custom page templates."
+msgstr ""
+
+#: admin/partials/mppc-get-started-page.php:19
+msgid "YouTube channel"
+msgstr ""
